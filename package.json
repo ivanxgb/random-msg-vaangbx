@@ -13,8 +13,16 @@
   ],
   "author": "Ivan Gonzalez <ivaangbx@gmail.com>",
   "license": "MIT",
-  "bin" :{
-    "random-msg": "./bin/global.js"
+  "bin": {
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvaanGBx/random-msg-vaangbx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IvaanGBx/random-msg-vaangbx/issues"
+  },
+  "homepage": "https://github.com/IvaanGBx/random-msg-vaangbx#readme"
 }
